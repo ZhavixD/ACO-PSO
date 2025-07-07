@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Sep 24 11:25:12 2024
-
-@author: Rodolfo Alberto Reyes Corona
-"""
-
 import tkinter as tk
 from tkinter import ttk
 import numpy as np
