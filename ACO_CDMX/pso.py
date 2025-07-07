@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jan  4 15:32:48 2025
-
-@author: rodo1
-"""
-
 import numpy as np
 
 class Particle:
