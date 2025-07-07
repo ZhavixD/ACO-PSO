@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Sep 24 11:25:12 2024
-
-@author: Rodolfo Alberto Reyes Corona
-"""
-
 import numpy as np
 import pandas as pd
 from MetroACO import MetroACO
